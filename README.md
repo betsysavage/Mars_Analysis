@@ -17,7 +17,7 @@ If each data point represents another day that has elapsed on Mars and there are
 
 3. What are the coldest and the warmest months on Mars (at the location of Curiosity)?
 
-To find the average of the minimum daily temperature for each month on Mars, I began by grouping the weather data by month with a group by function and then calculated the aggregate mean value. The command and results for each month are below:
+To find the average of the minimum daily temperature for each month on Mars, I began by grouping the weather data by month with a group by function and then calculated the aggregate mean value.
 
 <img width="691" alt="image" src="https://user-images.githubusercontent.com/114873837/214963593-1c9ec21f-e6be-457f-9153-cb693fc5299b.png">
 
